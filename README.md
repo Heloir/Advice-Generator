@@ -19,3 +19,5 @@ Nesse projeto, pratiquei meu estudo sobre integração de APIs, Usando a API : <
 <li> JavaScript
 <li> Vite HOST
 </ul>
+
+<h3>API: <a href="https://api.adviceslip.com/">AdviceSlip.</a></h3>
