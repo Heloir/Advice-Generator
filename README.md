@@ -1,5 +1,5 @@
 # Advice-Generator
-Nesse projeto, pratiquei meu estudo sobre integração de APIs, Usando a API : <a href="https://api.adviceslip.com/">AdviceSlip.</a>
+Nesse projeto, pratiquei meu estudo sobre integração de APIs, Usando a API : AdviceSlip. 
 
 <h1>ADVICE GENERATOR</h1>
 
