@@ -8,7 +8,7 @@ Nesse projeto, pratiquei meu estudo sobre integração de APIs, Usando a API : <
 
 <p>Estou estudando integração de APIs a um tempo usando o método FETCH, com funções ASYNC.</p>
 <p>Pensando nisso eu fiz esse projeto aonde ele te da vários conselhos diferentes a cada vez que você atualiza a página.</p>
-<p> LINK PARA ACESSAR O PROJETO : https://advice-generator-pedro.netlify.app
+<p> LINK PARA ACESSAR O PROJETO : https://advice-generator-pedro.netlify.app RESPONSIVO ✔
 
 
 <h2>SKILLS ULTILIZADAS:</h2>
